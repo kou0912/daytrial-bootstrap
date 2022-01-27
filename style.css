@@ -1,0 +1,6 @@
+@charset "UTF-8";
+
+.top{
+    background-image: url(https://github.com/kou0912/daytrial-bootstrap/blob/main/top.png?raw=true);
+    background-size: cover;
+}
